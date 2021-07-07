@@ -14,9 +14,10 @@ Category.init(
       autoIncrement: true,
     },
 
-    catagory_name:{
+    category_name:{
       type: DataTypes.STRING,
-      allowNull: false
+      allowNull: false,
+      defaultValue: 'default'
     }
   },
   {
@@ -24,7 +25,7 @@ Category.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'category',
+    modelName: 'Category',
   }
 );
 
