@@ -13,11 +13,7 @@ API calls work as follows:
     DELETE data ``api/{data}/:id``
 
 Videos:  
-[Category Routes](https://github.com/user/repo/blob/branch/other_file.md)
-
-[Product Routes](https://github.com/user/repo/blob/branch/other_file.md)
-
-[Tag Routes](https://github.com/user/repo/blob/branch/other_file.md)
+[Postman_Routes](https://github.com/Trhines/E-Commerce-Back-End/blob/main/videos/
 
 ## License
 MIT License
